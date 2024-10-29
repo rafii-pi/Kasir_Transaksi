@@ -48,6 +48,23 @@ Setelah semua data complete, kita melakukan operasi hitung untuk menghitung harg
 ```bash
 - jumlah_bayar = total_sewa - diskon
 ```
+Kurang lebih tampilan output/struk nya seperti berikut
+```bash
+|-----------------------------------|
+|        # Data Transaksi #         |
+|  ID Transaksi      : 001          |
+|  Tanggal Transaksi : 29/10/2024   |
+|  Status Member     : Member       |
+|  ID Member         : 1105         |
+|  Nama Penyewa      : Anonim Cuyy  |
+|  Nomor Kendaraan   : 1023         |
+|  Jenis Mobil       : Hot Hatch    |
+|  Lama Pinjam       : 6 Hari       |
+|  Total Sewa        : Rp.21000000  |
+|  Diskon Pinjam     : 10 persen    |
+|  Jumlah Bayar      : Rp.18900000  |
+|-----------------------------------|
+```
 Setelah mengerti konsep, terapkan menggunakan bahasa **C**. Selalu hati-hati dan teliti dalam penulisan program, goodluck><
 ```bash
   🦫 it's only college assignment :)
